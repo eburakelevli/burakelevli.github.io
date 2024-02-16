@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **eburakelevli@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<www.linkedin.com/in/burak-elevli>
 <p align="left">
 </p>
 
