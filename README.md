@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A passionate Data Scientist from London</h3>
+
 
 - 📫 How to reach me **eburakelevli@gmail.com**
 
